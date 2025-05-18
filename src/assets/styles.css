@@ -2,7 +2,9 @@
 
 html,
 body {
-  @apply bg-gray-100 h-full w-full p-0 m-0 flex flex-col items-center justify-center;
+  @apply bg-white h-full w-full p-0 m-0 flex flex-col items-center justify-center;
+  /* background: url("./world.svg") no-repeat center center fixed;
+  background-size: cover; */
 }
 
 #root {

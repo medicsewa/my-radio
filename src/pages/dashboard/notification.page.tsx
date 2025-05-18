@@ -1,9 +1,6 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
-// import World from "@/assets/world.svg";
-
 import { NavLink } from "react-router";
 
-const HomePage = () => {
+const NotificationPage = () => {
   return (
     <div className="flex flex-col items-center justify-center h-screen">
       <NavLink
@@ -16,4 +13,4 @@ const HomePage = () => {
   );
 };
 
-export default HomePage;
+export default NotificationPage;
