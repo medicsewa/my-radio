@@ -13,9 +13,11 @@
     "@deck.gl/google-maps": "^9.1.12",
     "@tailwindcss/vite": "^4.1.6",
     "@vis.gl/react-google-maps": "^1.5.2",
+    "dayjs": "^1.11.13",
     "path": "^0.12.7",
     "react": "^19.0.0-rc.1",
     "react-dom": "^19.0.0-rc.1",
+    "react-perfect-scrollbar": "^1.5.8",
     "react-router": "^7.6.0",
     "tailwindcss": "^4.1.6"
   },

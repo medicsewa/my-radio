@@ -1,4 +1,4 @@
-import BusIcon from "@/components/icons/ambulance-icon copy 3";
+import BusIcon from "@/components/icons/arrow-right-round-icon";
 
 const DashboardPage = () => {
   return (
